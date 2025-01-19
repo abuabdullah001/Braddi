@@ -19,7 +19,7 @@
               <!-- File Upload -->
               <div class="mb-3">
                 <label for="zip_file" class="form-label">GIF File</label>
-                <input type="file" name="zip_file" id="zip_file" class="form-control" accept="image/gif" required>
+                <input type="file" name="zip_file" id="zip_file" class="form-control" accept="image/gif/video" required>
                 <small class="form-text text-muted">Only GIF files are allowed (Max: 20MB).</small>
             </div>
             <button type="submit" class="btn btn-primary">Upload</button>
